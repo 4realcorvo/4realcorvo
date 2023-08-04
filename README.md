@@ -10,6 +10,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" align="left" style="height: 200px; width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=4realcorvo&show_icons=true&theme=transparent" align="left" style="height: 200px; width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4realcorvo&layout=compact" align="right" style="height: 200px; width: 350px;">
 </div>
